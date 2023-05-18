@@ -13,8 +13,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
-    /* background-color: #1B244A; */
-    
+   
 }
 .home {
     position: absolute;
@@ -28,10 +27,7 @@ body {
     font-weight: 700;
     font-size: 40px;
     line-height: 36px;
-    /* identical to box height, or 90% */
-
     text-align: center;
-
     color: #EEEEEE;
 }
 
@@ -57,10 +53,7 @@ body {
     font-weight: 400;
     font-size: 90px;
     line-height: 127px;
-    /* or 141% */
-
     text-align: center;
-
     color: #F94F6D;
 }
 
@@ -71,7 +64,6 @@ body {
     height: 45px;
     left: 82px;
     top: 271px;
-
     border: 2px solid #9AABD8;
     border-radius: 5px;
 }
@@ -82,7 +74,6 @@ body {
     height: 45px;
     left: 136px;
     top: 271px;
-
     border: 2px solid #9AABD8;
     border-radius: 5px;
 }
@@ -93,7 +84,6 @@ body {
     height: 45px;
     left: 192px;
     top: 271px;
-
     border: 2px solid #9AABD8;
     border-radius: 5px;
 }
@@ -110,10 +100,7 @@ body {
     font-weight: 700;
     font-size: 40px;
     line-height: 36px;
-    /* identical to box height, or 90% */
-
     text-align: center;
-
     color: #EEEEEE;
 }
 .guest-score-back{
@@ -122,7 +109,6 @@ body {
     height: 120px;
     left: 337px;
     top: 125px;
-
     background: #080001;
     border-radius: 5px;
 }
@@ -138,10 +124,7 @@ body {
     font-weight: 400;
     font-size: 90px;
     line-height: 127px;
-    /* or 141% */
-
     text-align: center;
-
     color: #F94F6D;
 }
 
@@ -152,7 +135,6 @@ body {
     height: 45px;
     left: 337px;
     top: 271px;
-
     border: 2px solid #9AABD8;
     border-radius: 5px;
 }
@@ -189,7 +171,6 @@ body {
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
-    /* or 155% */
     text-align: center;
     color: #9AABD8;
 }
